@@ -1,0 +1,71 @@
+-,state,name,party ,terms_served ,gender,race,age,ethnicity,re_election,abortion_opinion,education,religion,military_service,incumbent ,immigration_opinion,birth_state,chance_of_winning
+S001,Alabama,Everett Wess ,D,0,1,1,65,0,0,0,4,0,0,0,1,Alabama,2.7
+S002,Alabama,Barry Moore ,R,0,1,0,60,0,0,0,2,0,1,0,0,Alabama,79
+S003,Alaska,Daniel S Sullivan ,R,2,1,0,61,0,1,0,4,0,1,1,0,Ohio,74
+S004,Alaska,Mary Peltola ,D,0,0,5,53,2,0,1,1,0,0,0,0,Alaska,47
+S005,Arkansas,Tom Cotton,R,2,1,0,49,0,1,0,4,0,1,1,0,Arkansas,33.1
+S006,Arkansas,Hallie Shoffner ,D,0,0,0,39,0,0,2,3,0,0,0,1,Texas,47.4
+S007,Colorado,John Hickenlooper ,D,1,1,0,74,0,1,1,3,0,0,1,1,Pennsylvania ,9.3
+S008,Colorado,Mark Baisley  ,R,0,1,0,71,0,0,0,2,0,0,0,0,Minnesota,1
+S009,Delaware,Chris Coons,D,3,1,0,63,0,1,1,4,0,0,1,1,Connecticut,21.5
+S010,Delaware,Michael Katz ,R,0,1,0,64,0,0,2,5,1,0,0,0,Connecticut,50
+S011,Florida,Ashely B Moody ,R,0,0,0,50,0,0,0,4,0,0,0,0,Florida,91
+S012,Florida,Angela Nixon ,D,0,0,1,42,0,0,1,2,0,0,0,1,Florida,45
+S013,Georgia,Jon Ossoff  ,D,1,1,0,39,0,1,1,3,1,0,1,1,Georgia,95
+S014,Georgia,Mike Collins ,R,0,1,0,58,0,0,0,2,0,0,0,0,Georgia,15
+S015,Idaho,Jim Risch ,R,3,1,0,83,0,1,0,4,0,0,1,0,Wisconsin,29.4
+S016,Idaho,Todd Achilles ,I,0,1,0,58,0,0,1,3,0,0,0,0,Oregan,45.5
+S017,Illinois ,Juliana Stratton  ,D,0,0,1,61,0,0,1,4,,0,0,1,Illinios,99
+S018,Illinois ,Don Tracy ,R,0,1,0,75,0,0,0,4,,0,0,0,Illinios,2
+S019,Iowa,Josh Turek ,D,0,1,0,47,0,0,1,3,,0,0,1,Iowa,96
+S020,Iowa,Ashley Hinson ,R,0,0,0,43,0,0,0,2,0,0,0,0,Iowa,55
+S021,Kansas,Roger Marshall ,R,1,1,0,66,0,1,0,5,0,0,1,0,Kansas,63
+S022,Kansas,Adam Hamilton ,D,0,1,0,62,0,0,1,3,0,0,0,1,Kansas,45
+S023,Kentucky,Charles Booker ,D,0,1,1,42,0,0,1,4,0,0,0,1,Kentucky,40
+S024,Kentucky,Andy Barr ,R,0,1,0,53,0,0,0,4,0,0,0,0,Kentucky,98.1
+S025,Louisiana,Jamie Davis ,D,0,1,1,56,0,0,1,1,,0,0,0,Texas,47.1
+S026,Louisiana,Julia Letlow ,R,0,0,0,45,0,0,0,6,0,0,0,0,Louisiana,57.3
+S027,Maine ,Susan Collins ,R,5,0,0,73,0,1,1,2,0,0,1,0,Maine,8.6
+S028,Maine ,Troy Dale Jackson ,D,0,1,0,58,0,0,1,6,0,0,0,1,Maine,50
+S029,Massachusetts,Edward J Markey ,D,2,1,0,80,0,1,1,4,0,0,1,1,Massachusetts,33.1
+S030,Massachusetts,John Deaton ,R,0,1,0,59,0,0,1,4,,1,0,0,Michigan,3
+S031,Michigan,Abdul El-Sayed,D,0,1,5,41,0,0,1,4,2,0,0,1,Michigan,67
+S032,Michigan,Mike Rogers ,R,0,1,0,63,0,0,0,5,0,0,0,0,Michigan,33.5
+S033,Minnesota,Peggy Flanagan ,D,0,0,0,46,2,0,1,4,3,0,0,1,Minnesota,86
+S034,Minnesota,Michele Tafoya ,R,0,0,4,62,1,0,0,3,0,0,0,0,California,14
+S035,Mississippi,Cindy Hyde Smith ,R,2,0,0,67,0,1,0,2,0,0,1,0,Mississippi,10
+S036,Mississippi,Scott Colom ,D,0,1,1,43,0,0,0,4,0,0,0,0,Mississippi,15
+S037,Montana,Alani Bankhead ,D,0,0,4,43,1,0,1,3,0,1,0,1,,45
+S038,Montana,Kurt Alme ,R,0,1,0,59,0,0,0,4,0,0,0,0,Montana,92
+S039,Nebraska,Pete Ricketts ,R,1,1,0,62,0,1,0,3,0,0,1,0,Nebraska,52
+S040,Nebraska,Dan Osborn ,N,0,1,0,51,0,0,0,1,0,1,0,1,Nebraska,20
+S041,New Hampshire,Chris Pappas ,D,0,1,0,45,0,0,1,2,0,0,0,0,New Hampshire,51
+S042,New Hampshire,John Sununu ,R,1,1,5,62,1,1,0,3,0,0,0,0,Massachusetts,10
+S043,New Jersey,Cory Booker ,D,2,1,1,57,0,1,1,4,0,0,1,1,District of Columbia,16.3
+S044,New Jersey,Justin Murphy ,R,0,1,0,58,0,0,1,4,0,0,0,0,New Jersey,5
+S045,New Mexico,Ben Ray Lujan ,D,1,1,4,54,1,1,1,2,0,0,1,1,New Mexico,6.1
+S046,New Mexico,Larry E Marker ,R,0,1,0,63,0,0,0,1,0,0,0,0,New Mexico,5
+S047,North Carolina,Michael Whatley ,R,0,1,0,57,0,0,0,4,0,0,0,0,North Carolina,22
+S048,North Carolina,Roy Cooper ,D,0,1,0,69,0,0,1,4,0,0,0,1,North Carolina,49.2
+S049,Ohio,Sherrod Brown ,D,3,1,0,73,0,1,1,3,0,0,0,1,Ohio,47
+S050,Ohio,Jon Husted ,R,0,1,0,59,0,0,0,3,0,0,1,0,Michigan,61
+S051,Oklahoma,N'Kiyla Thomas ,D,0,0,5,31,2,0,1,1,0,0,0,1,Oklahoma,61
+S052,Oklahoma,Kevin Hern ,R,0,0,0,64,0,0,0,3,0,0,0,0,Missouri,97
+S053,Oregon,Jeff Merkley ,D,3,1,0,69,0,1,1,3,0,0,0,1,Oregan,17.6
+S054,Oregon,David Brock Smith ,R,0,1,0,49,0,0,0,2,0,0,0,3,Oregan,37.2
+S055,Rhode Island,Raymond McKay ,R,0,1,0,65,0,0,2,1,0,0,0,0,Rhode Island,2
+S056,Rhode Island,Jack Reed ,D,5,1,0,76,0,1,1,4,0,0,0,1,Rhode Island,33.1
+S057,South Carolina,Darline Graham ,R,0,0,0,62,0,0,0,3,0,0,0,0,South Carolina,10.3
+S058,South Carolina,Annie Andrews ,D,0,0,0,45,0,0,1,4,,0,0,0,Kentucky,16
+S059,South Dakota,Mike Rounds ,R,2,1,0,71,0,1,0,2,0,0,1,0,South Dakota,31.5
+S060,South Dakota,Brian Bengs ,I,0,1,0,56,0,0,1,2,,1,0,1,Iowa,97.8
+S061,Tennessee,Bill Hagerty ,R,1,1,0,67,0,1,0,4,0,0,1,0,Tennessee,27
+S062,Tennessee,Marquita Bradshaw ,D,0,0,1,52,0,0,1,2,0,0,0,1,Tennessee,54.8
+S063,Texas,James Talarico ,D,0,1,0,36,0,0,1,3,0,0,0,0,Texas,45
+S064,Texas,Ken Paxton ,R,0,1,0,63,0,0,0,4,0,0,0,0,North Dakota,34
+S065,Virginia,Mark Warner ,D,3,1,0,71,0,1,1,4,0,0,1,1,Indiana,12.1
+S066,Virginia,Bert Mizusawa ,R,0,1,2,69,0,0,0,3,3,1,0,0,Hawaii,51.1
+S067,West Virginia,Shelly Moore Capito ,R,2,0,0,72,0,1,0,3,0,0,1,0,West Virginia,98
+S068,West Virginia,Rachel Fetty Anderson ,D,0,0,0,53,0,0,1,2,0,0,0,3,,2.7
+S069,Wyoming,James Byrd ,D,0,1,1,72,0,0,1,2,0,0,0,1,Wyoming,3
+S070,Wyoming,Harriet Hageman ,R,0,0,0,63,0,0,0,4,0,0,0,0,Wyoming,97
